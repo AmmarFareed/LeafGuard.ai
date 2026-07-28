@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Dataset (large, shouldn't be committed)
+data/
+data38/
+*.zip
+
+# Model artifacts (optional — remove these two lines if you WANT to commit the trained model)
+# leafguard_model.keras
+# class_names.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Kaggle credentials (never commit these)
+kaggle.json
+.kaggle/
