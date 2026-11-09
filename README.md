@@ -112,12 +112,12 @@ The full pipeline — data loading, augmentation, transfer learning, fine-tuning
 - [ ] Fine-tune on field-condition datasets (e.g. PlantDoc)
 - [ ] Compare against EfficientNet / ResNet architectures
 - [ ] Add treatment/care recommendations per diagnosis
-- [ ] Public deployment (Streamlit Community Cloud / Hugging Face Spaces)
+- [✅] Public deployment (Streamlit Community Cloud / Hugging Face Spaces)
 
 ## 👤 Author
 
 **Ammar Fareed**
-Higher Diploma in IT, SLIIT City University
+B.S. in Computer Science,University of Bedfordshire;Higher Diploma in IT, SLIIT City University
 [Portfolio](https://ammarfareed.vercel.app) · [LinkedIn](https://linkedin.com/in/ammar-fareed) · [GitHub](https://github.com/AmmarFareed)
 
 ## 📄 License
